@@ -1,4 +1,8 @@
 Makefile.in
+src/.deps
+src/*.o
+src/dyaftb
+src/Makefile
 /autom4te.cache
 /aclocal.m4
 /compile
@@ -7,3 +11,6 @@ Makefile.in
 /install-sh
 /missing
 /stamp-h1
+/INSTALL
+/config.*
+/Makefile
